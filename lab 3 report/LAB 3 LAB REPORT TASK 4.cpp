@@ -1,5 +1,5 @@
-// TALHA TUFAIL
-// ETEA ID 5121405
+// danyal manzar
+// ETEA ID 5122203
 
 
 
@@ -20,3 +20,4 @@ int main() {
 
     return 0;
 }
+
