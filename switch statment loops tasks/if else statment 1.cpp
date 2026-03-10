@@ -1,6 +1,6 @@
-// 5121399
+//danyal manzar
+//etea id :5122203
 
-//MUHAMMAD HAROON
 #include <iostream>
 using namespace std;
 
@@ -22,3 +22,4 @@ int main() {
 
     return 0;
 }
+
