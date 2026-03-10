@@ -1,5 +1,5 @@
-//MUHAMMAD HAROON 
-//5121399
+//danyal manzar
+//5122203
 
 #include <iostream>
 using namespace std;
@@ -19,3 +19,4 @@ int main() {
     cout << "Factorial of " << n << " is: " << factorial << endl;
     return 0;
 }
+
