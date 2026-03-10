@@ -1,5 +1,5 @@
-// TALHA TUFAIL
-// ETEA ID 5121405
+// danyal manzar
+// ETEA ID 5122203
 
 
 #include <iostream>   // Used for input and output
@@ -43,3 +43,4 @@ int main()
 
     return 0;   // Program ends successfully
 }
+
