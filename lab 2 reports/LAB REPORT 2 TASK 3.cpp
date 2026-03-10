@@ -1,6 +1,6 @@
 
-// TALHA TUFAIL
-// ETEA ID 5121405
+// Danyal manzar
+// ETEA ID 5122203
 
 
 #include<iostream>  // Include input-output library
@@ -20,3 +20,4 @@ int main()
 
     return 0;  // End of program
 }
+
