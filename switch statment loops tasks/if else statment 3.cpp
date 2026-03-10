@@ -1,7 +1,5 @@
-// 5121399
-
-//MUHAMMAD HAROON
-
+//danyal manzar
+//etea id :5122203
 
 int main() 
 {
@@ -27,3 +25,4 @@ int main()
 
     return 0;
 }
+
