@@ -1,5 +1,5 @@
-//TALHA TUFAIL
-//5121405
+//Danyal manzar 
+//5122203
 
 #include<iostream>
 using namespace std;
@@ -26,5 +26,6 @@ int main() {
 
     return 0;  // End of program
 } 
+
 
 
